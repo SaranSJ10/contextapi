@@ -7,7 +7,7 @@
 
 ###
 
- <p align="1eft">Demo : https://cart-items-context.netlify.app</p> 
+ <p align="1eft">Demo : https://contextapisj.netlify.app/</p> 
 
 ###
 
@@ -56,10 +56,6 @@
 ###
 
 <h2 align="left">Screen shoot</h2>
-
-###
-
-![image](https://github.com/Prakash-V-S/Cart-Items-Context/assets/141955456/dcc60ba5-f00e-4270-9dd3-ac8635fb40b7)
 
 
 ## React + Vite
